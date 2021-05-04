@@ -1,4 +1,4 @@
-#To run this you need to run the server first by:
+To run this you need to run the server first by:
 
 ### 'npm run server'
 
